@@ -1,1 +1,1 @@
-# Mangadb
+# MangaDB
