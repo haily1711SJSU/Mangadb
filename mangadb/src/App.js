@@ -3,6 +3,7 @@ import Register from "./components/Register";
 
 
 function App() {
+  //hi this is Joshua
   return (
     <div>
       <Login/>
